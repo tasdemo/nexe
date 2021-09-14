@@ -10,3 +10,4 @@ preRun:
   - npm ci
 postRun:
   - node --version
+  - echo 'Done'
